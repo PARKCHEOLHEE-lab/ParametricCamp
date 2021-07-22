@@ -12,9 +12,10 @@
 
 ## Parametric Design Preview
 1. [Recursive Stair](https://github.com/PARKCHEOLHEE-lab/ParametricCamp/tree/master/04.rsExercise/RecursiveStair) ▼<br>
+
    - _Parametric Recursive Stair Generating (파라메트릭한 원형계단 만들기)_
    - _parameter : 계단의 길이(x), 너비(y), 높이(z), 단 수(steps), 회전각도(angle)_
-<p align="center"><a href='https://ifh.cc/v-chGKXl' target='_blank'><img src='https://ifh.cc/g/chGKXl.gif' border='0' width="500px"></a></p>
+<p align="center"><a href='https://ifh.cc/v-chGKXl' target='_blank'><img src='https://ifh.cc/g/chGKXl.gif' border='0' width="380px"></a>　<a href='https://ifh.cc/v-JBVajY' target='_blank'><img src='https://ifh.cc/g/JBVajY.png' border='0' width="312px"></a></p><br>
    
 2. Python Code ▼
   ```
@@ -40,9 +41,10 @@
 
 ## Generative Design Preview
 1. [Generative Form](https://github.com/PARKCHEOLHEE-lab/ParametricCamp/tree/master/03.rsApplication/GenerativeForm) ▼<br>
+
    - _parameter설정 후 원하는 조건들에 해당하는 모든 volume 생성하기_
    - _설정한 조건 : 원하는 volume의 개수, volume별 좌표, volume의 회전값 등_
-<p align="center"><img src='https://user-images.githubusercontent.com/83874157/126615653-6375512c-5b3c-42d3-9887-e6a8f6f2986e.gif' border='0' width="900px"></a></p>
+<p align="center"><img src='https://user-images.githubusercontent.com/83874157/126615653-6375512c-5b3c-42d3-9887-e6a8f6f2986e.gif' border='0' width="900px"></a></p><br>
 
 2. python code ▼
 ```
