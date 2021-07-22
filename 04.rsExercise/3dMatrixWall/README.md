@@ -52,8 +52,6 @@ def pointMatrix(imax, jmax, kmax):
 
 
 pointMatrix(imax, jmax, kmax)
-
-  a = stepList
    ```
 <br>
 
