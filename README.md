@@ -1,10 +1,16 @@
 # Parametric Camp<br>
-1. Parametric Design<br>
+
+1. Research Library<br>
+
+   - <img src="https://img.shields.io/badge/rhino-2d2f34?style=for-the-badge&logo=rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/rhinoscriptsyntax-2d2f34?style=for-the-badge&logo=rhinoceros&logoColor=white"/> <img src="https://img.shields.io/badge/ghpythonlib-2d2f34?style=for-the-badge&logo=rhinoceros&logoColor=white"/><br><br>
+   
+   
+2. Parametric Design<br>
    - _각각의 parameter들 즉 데이터들간의 **관계 · 의존 · 상호작용** 등을 설정하여 디자인 하는 방식 및 프로세스_
    - _parameter : 프로그램의 개개의 작업에 적용할 경우에 필요한 수치 정보(데이터)_<br><br>
 
 
-2. Generative Design<br>
+3. Generative Design<br>
    - _특정 제약 조건을 충족하는 특정 수의 출력을 생성하는 프로그램 디자인 방식 및 프로세스_
    - _특정 출력을 선택하거나 입력 값, 범위 및 분포를 변경하여 실행 가능한 영역을 미세 조정하는 반복적인 디자인 방식 및 프로세스_
    - _매개변수와 설계목표를 입력하고 설계대안의 순열을 모두 탐색하고 생성_<br><br>
