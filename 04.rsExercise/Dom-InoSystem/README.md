@@ -3,7 +3,7 @@
 1. Theme | Dom-Ino System<br>
 
    - _Stacked Dom-Ino System (Dom-Ino System이 적층되는 구조 모델)_
-   - _Parameter : Slab Size `slabX, slabY`, Number of Floors `floor`_
+   - _Parameter : Slab Size : `slabX` `slabY`, Number of Floors : `floor`_
 <p align="center"><img src='https://user-images.githubusercontent.com/83874157/127106273-ade8962e-b30b-44ec-a855-822753a7e927.gif' border='0' width='1000px'></p><br>
 
    
@@ -14,7 +14,7 @@
 
 3. Core Methods<br>
 
-   - _`DomainBox, TrimBrep, DivideSurface, DeconstructBrep`_<br><br>
+   - _`DomainBox` `TrimBrep` `DivideSurface` `DeconstructBrep`_<br><br>
 
 4. Python Code ▼
   ```
