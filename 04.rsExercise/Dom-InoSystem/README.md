@@ -76,7 +76,7 @@ for i in range(len(steps)):
    ```
 <br>
 
-   5. Bad Point<br>
+   5. Bad Points<br>
 
         - _지저분한 Code_
         - _Parameter간의 관계가 유기적이지 못함_
