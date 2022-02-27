@@ -3,7 +3,7 @@
 1. Theme | Recursive Stair<br>
    - _Parametric Recursive Stair Generating (파라메트릭한 원형계단 만들기)_
    - _parameter : 계단의 길이(x), 너비(y), 높이(z), 단 수(steps), 회전각도(angle))_
-<p align="center"><a href='https://ifh.cc/v-chGKXl' target='_blank'><img src='https://ifh.cc/g/chGKXl.gif' border='0' width="500px"></a>　<a href='https://ifh.cc/v-JBVajY' target='_blank'><img src='https://ifh.cc/g/JBVajY.png' border='0' width="412px"></a></p>
+<p align="center"><a href='https://ifh.cc/v-chGKXl' target='_blank'><img src='https://user-images.githubusercontent.com/83874157/155870682-7cf6ac76-b6c1-4513-8979-8fffde656b8b.gif' border='0' width="500px"></a>　<a href='https://ifh.cc/v-JBVajY' target='_blank'><img src='https://ifh.cc/g/JBVajY.png' border='0' width="412px"></a></p>
    
 2. Python Code ▼
   ```
